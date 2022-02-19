@@ -1,5 +1,5 @@
 Hi there! If you're new here please, you can call me Bell!😜
-This account will be used as a logbook to register my daily improvements as a software engineer aspirant, so take a seat and whatch me out!😁🤞
+This account will be used as a logbook to register my daily improvements as a software engineer, so take a seat and whatch me out!😁🤞
 
 
 <div align="center">
