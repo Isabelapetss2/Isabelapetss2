@@ -1,4 +1,5 @@
-
+Hi there! If you're new here, please, you can call me Bell!😜
+This account will be used as a logbook to register my daily improvements as a software engineer aspirant, so take a seat and whatch me out!😁🤞
 <div align="center">
   <a href="https://github.com/JohnnyAlves">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isabelapetss2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
