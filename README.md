@@ -11,7 +11,10 @@
   <img align="center" alt="Isabela-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Isabela-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Isabela-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="right"  height="140em" width="148" src="https://user-images.githubusercontent.com/91919483/154418881-8b5e67aa-ce0a-480b-a8ce-de62c87a90d8.gif"
+  <img align="center" alt="Isabela-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> 
+  <img align="center" alt="Isabela-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> 
+  <img align="center" alt="Isabela-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"> 
+  <img align="right"  height="140em" width="148" src="https://images.app.goo.gl/UGT7nLiRwAWisz9i7"
  </div>
  
  ##
